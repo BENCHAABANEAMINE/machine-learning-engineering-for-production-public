@@ -1,5 +1,5 @@
 from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import StandarScaler
+from sklearn.preprocessing import StandardScaler
 
 import pickle
 from main import clf
